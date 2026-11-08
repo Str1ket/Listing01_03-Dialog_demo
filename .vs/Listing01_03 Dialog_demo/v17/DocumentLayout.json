@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\Listing\\Listing01_03 Dialog_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B242BA-5C45-4C74-A356-1F5B030B273F}|Listing01_03 Dialog_demi\\Listing01_03 Dialog_demi.csproj|d:\\project\\listing\\listing01_03 dialog_demo\\listing01_03 dialog_demi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B242BA-5C45-4C74-A356-1F5B030B273F}|Listing01_03 Dialog_demi\\Listing01_03 Dialog_demi.csproj|solutionrelative:listing01_03 dialog_demi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project\\Listing\\Listing01_03 Dialog_demo\\Listing01_03 Dialog_demi\\Program.cs",
+              "RelativeDocumentMoniker": "Listing01_03 Dialog_demi\\Program.cs",
+              "ToolTip": "D:\\project\\Listing\\Listing01_03 Dialog_demo\\Listing01_03 Dialog_demi\\Program.cs",
+              "RelativeToolTip": "Listing01_03 Dialog_demi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T07:38:15.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

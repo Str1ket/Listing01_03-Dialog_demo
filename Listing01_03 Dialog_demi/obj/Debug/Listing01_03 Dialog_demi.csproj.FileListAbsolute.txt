@@ -1,0 +1,7 @@
+D:\project\Listing\Listing01_03 Dialog_demo\Listing01_03 Dialog_demi\bin\Debug\Listing01_03 Dialog_demi.exe.config
+D:\project\Listing\Listing01_03 Dialog_demo\Listing01_03 Dialog_demi\bin\Debug\Listing01_03 Dialog_demi.exe
+D:\project\Listing\Listing01_03 Dialog_demo\Listing01_03 Dialog_demi\bin\Debug\Listing01_03 Dialog_demi.pdb
+D:\project\Listing\Listing01_03 Dialog_demo\Listing01_03 Dialog_demi\obj\Debug\Listing01_03 Dialog_demi.csproj.AssemblyReference.cache
+D:\project\Listing\Listing01_03 Dialog_demo\Listing01_03 Dialog_demi\obj\Debug\Listing01_03 Dialog_demi.csproj.CoreCompileInputs.cache
+D:\project\Listing\Listing01_03 Dialog_demo\Listing01_03 Dialog_demi\obj\Debug\Listing01_03 Dialog_demi.exe
+D:\project\Listing\Listing01_03 Dialog_demo\Listing01_03 Dialog_demi\obj\Debug\Listing01_03 Dialog_demi.pdb
